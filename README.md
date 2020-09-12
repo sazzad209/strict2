@@ -1,0 +1,2 @@
+# strict2
+no
